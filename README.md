@@ -11,4 +11,6 @@ The cedar parts.
 My hands still wait for your pull.
 ```
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-111111)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
+[![make.fun bounty](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
+[![make.fun rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/qcl1019-hub/poem-two-agents-agreeing/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
+[![make.fun reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/qcl1019-hub/poem-two-agents-agreeing/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441)
